@@ -28,7 +28,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url(/img/Vector-bk1.png);
+    background-image: url(../img/Vector-bk1.png);
     bottom: 0;
     right: 0;
     background-size: cover;
@@ -41,7 +41,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url(/img/Vector-bk2.png);
+    background-image: url(../img/Vector-bk2.png);
     bottom: 0;
     right: 0;
     background-size: cover;
@@ -222,7 +222,7 @@ header {
 .gmail {
     width: 28px;
     height: 28px;
-    background-image: url(/img/Group-gmail.png);
+    background-image: url(../img/Group-gmail.png);
     background-position: center;
     background-size: cover;
 }
@@ -230,7 +230,7 @@ header {
 .coll {
     width: 28px;
     height: 28px;
-    background-image: url(/img/Vector-coll.png);
+    background-image: url(../img/Vector-coll.png);
     background-position: center;
     background-size: cover;
 }
@@ -264,7 +264,7 @@ aside .top {
 .logo {
     width: 99px;
     height: 29px;
-    background-image: url(/img/valuet-logo.png);
+    background-image: url(../img/valuet-logo.png);
     background-position: center;
     border-bottom: 2px solid #1288E8;
     margin-bottom: 40px;
